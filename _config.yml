@@ -1,1 +1,4 @@
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
+language: [spanish]
+title: Mi blob personal
+description: una sencilla pagina que habla sobre mi 
